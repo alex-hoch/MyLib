@@ -1,0 +1,16 @@
+.idea/encodings.xml
+.idea/.name
+.idea/ant.xml
+.idea/flexCompiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+out/production/MyLibrary/MyLibrary.swf
+src/MyLibrary.as
+.idea/compiler.xml
+src/test/ButtonTest.as
+.idea/workspace.xml
+src/test/CheckboxTest.as
+src/test/BaseTest.as
+MyLibrary.iml
